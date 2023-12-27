@@ -139,7 +139,7 @@ export default {
               },
               {
                 label: 'Discord',
-                to: '/docs/other/discord',
+                href: 'https://docs.hai-vr.dev/docs/other/discord',
               },
             ],
           },
